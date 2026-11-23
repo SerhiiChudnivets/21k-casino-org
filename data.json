@@ -1,7 +1,7 @@
 {
   "name": "21k-casino.org",
   "site_name": "21K Casino – Up to 400% Welcome Bonus + 230 Free Spins",
-  "html_head": "<link rel=\"canonical\" href=\"https://casino-kingia.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://casino-kingia.uk/en-gb/\" hreflang=\"en-GB\">\n<link rel=\"alternate\" href=\"https://casino-kingia.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://casino-kingia.uk/\" hreflang=\"x-default\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kingia Casino UK – VIP Cashback, Jackpots & Free Spins\">\n<meta property=\"og:description\" content=\"Kingia Casino for UK players: 17-level VIP with daily cashback up to 40%, a £850,000 jackpot, free Wheel of Gods spins, live tables and sports in one account.\">\n<meta property=\"og:url\" content=\"https://casino-kingia.uk/en-gb/\">\n<meta property=\"og:site_name\" content=\"Kingia Casino\">\n<meta property=\"og:image\" content=\"https://casino-kingia.uk/uploads/kingia-casino-baner.webp\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Kingia Casino UK – VIP Cashback, Jackpots & Free Spins\">\n<meta name=\"twitter:description\" content=\"Kingia Casino for UK players: 17-level VIP with daily cashback up to 40%, a £850,000 jackpot, free Wheel of Gods spins, live tables and sports in one account.\">\n<meta name=\"twitter:image\" content=\"https://casino-kingia.uk/uploads/kingia-casino-baner.webp\">",
+  "html_head": "<link rel=\"canonical\" href=\"https://21k-casino.org/\">\n<link rel=\"alternate\" href=\"https://21k-casino.org/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://21k-casino.org/\" hreflang=\"x-default\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"21K Casino – Up to 400% Welcome Bonus + 230 Free Spins\">\n<meta property=\"og:description\" content=\"21K Casino: four welcome bonuses worth up to €4,000 + 230 FS, weekly cashback, a 50% reload, Weekly Raffle and fast payments in euro, cards and crypto.\">\n<meta property=\"og:url\" content=\"https://21k-casino.org/\">\n<meta property=\"og:site_name\" content=\"21K Casino\">\n<meta property=\"og:image\" content=\"https://21k-casino.org/uploads/21k-casino-baner.webp\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"21K Casino – Up to 400% Welcome Bonus + 230 Free Spins\">\n<meta name=\"twitter:description\" content=\"21K Casino: four welcome bonuses worth up to €4,000 + 230 FS, weekly cashback, a 50% reload, Weekly Raffle and fast payments in euro, cards and crypto.\">\n<meta name=\"twitter:image\" content=\"https://21k-casino.org/uploads/21k-casino-baner.webp\">",
   "template": "tupchiy",
   "language_code": "en",
   "allow_indexing": false,
@@ -238,8 +238,8 @@
     }
   ],
   "url": "21k-casino.org",
-  "_generated_at": "2026-11-23T16:32:18.774Z",
+  "_generated_at": "2026-11-23T16:39:25.754Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-23T16:32:19.519Z",
-  "_deploy_trigger": "hh14en"
+  "_last_deploy": "2026-11-23T16:39:26.479Z",
+  "_deploy_trigger": "5hl4g"
 }
