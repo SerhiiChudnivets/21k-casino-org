@@ -1,10 +1,10 @@
 {
   "name": "21k-casino.org",
   "site_name": "21K Casino – Up to 400% Welcome Bonus + 230 Free Spins",
-  "html_head": "<link rel=\"canonical\" href=\"https://21k-casino.org/\">\n<link rel=\"alternate\" href=\"https://21k-casino.org/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://21k-casino.org/\" hreflang=\"x-default\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"21K Casino – Up to 400% Welcome Bonus + 230 Free Spins\">\n<meta property=\"og:description\" content=\"21K Casino: four welcome bonuses worth up to €4,000 + 230 FS, weekly cashback, a 50% reload, Weekly Raffle and fast payments in euro, cards and crypto.\">\n<meta property=\"og:url\" content=\"https://21k-casino.org/\">\n<meta property=\"og:site_name\" content=\"21K Casino\">\n<meta property=\"og:image\" content=\"https://21k-casino.org/uploads/21k-casino-baner.webp\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"21K Casino – Up to 400% Welcome Bonus + 230 Free Spins\">\n<meta name=\"twitter:description\" content=\"21K Casino: four welcome bonuses worth up to €4,000 + 230 FS, weekly cashback, a 50% reload, Weekly Raffle and fast payments in euro, cards and crypto.\">\n<meta name=\"twitter:image\" content=\"https://21k-casino.org/uploads/21k-casino-baner.webp\">",
+  "html_head": "<meta name=\"google-site-verification\" content=\"jJ7gcXGmJzdo1QAKvtUscbVT3key9ES9a5DhFhYEpy0\" />\n<link rel=\"canonical\" href=\"https://21k-casino.org/\">\n<link rel=\"alternate\" href=\"https://21k-casino.org/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://21k-casino.org/\" hreflang=\"x-default\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"21K Casino – Up to 400% Welcome Bonus + 230 Free Spins\">\n<meta property=\"og:description\" content=\"21K Casino: four welcome bonuses worth up to €4,000 + 230 FS, weekly cashback, a 50% reload, Weekly Raffle and fast payments in euro, cards and crypto.\">\n<meta property=\"og:url\" content=\"https://21k-casino.org/\">\n<meta property=\"og:site_name\" content=\"21K Casino\">\n<meta property=\"og:image\" content=\"https://21k-casino.org/uploads/21k-casino-baner.webp\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"21K Casino – Up to 400% Welcome Bonus + 230 Free Spins\">\n<meta name=\"twitter:description\" content=\"21K Casino: four welcome bonuses worth up to €4,000 + 230 FS, weekly cashback, a 50% reload, Weekly Raffle and fast payments in euro, cards and crypto.\">\n<meta name=\"twitter:image\" content=\"https://21k-casino.org/uploads/21k-casino-baner.webp\">",
   "template": "tupchiy",
   "language_code": "en",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -238,8 +238,8 @@
     }
   ],
   "url": "21k-casino.org",
-  "_generated_at": "2026-11-23T16:39:25.754Z",
+  "_generated_at": "2026-11-25T16:14:01.021Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-23T16:39:26.479Z",
-  "_deploy_trigger": "5hl4g"
+  "_last_deploy": "2026-11-25T16:14:01.790Z",
+  "_deploy_trigger": "fgwa9"
 }
